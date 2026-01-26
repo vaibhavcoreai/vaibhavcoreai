@@ -95,5 +95,4 @@ I **upgrade step by step**.
 
 ⭐ If you like my work, feel free to star a repo or connect —  
 we’re all learning together.
-ecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
