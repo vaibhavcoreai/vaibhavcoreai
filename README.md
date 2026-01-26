@@ -1,7 +1,5 @@
-## Hi there 👋
 
-<!--
-**vaibhavcoreai/vaibhavcoreai** is a ✨ _sp# Hi, I'm Vaibhav 👋
+## Hi, I'm Vaibhav 👋
 
 🎓 **B.Sc. in Data Science & AI (Online) — IIT Madras**  
 🧠 Exploring **Artificial Intelligence + Human Behavior**  
