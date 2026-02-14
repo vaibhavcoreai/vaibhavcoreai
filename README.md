@@ -1,4 +1,11 @@
-assets/space-shooter.gif
+---
+
+## 🎮 My GitHub Activity Game
+
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
+
 ## Hi, I'm Vaibhav 👋
 
 🎓 **B.Sc. in Data Science & AI (Online) — IIT Madras**  
