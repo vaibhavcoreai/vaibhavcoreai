@@ -94,7 +94,7 @@ I **upgrade step by step**.
 
 ## 📫 Let’s Connect
 
-- 💼 Portfolio: https://vaibhavmanaji.vercel.app/
+- 💼 Portfolio: https://vaibhavmanaji.in
 - 📧 Email: vaibhavcoreai@gmail.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/vaibhav-manaji-40a9ab290/
 
