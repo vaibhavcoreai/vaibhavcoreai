@@ -1,4 +1,4 @@
-
+assets/space-shooter.gif
 ## Hi, I'm Vaibhav 👋
 
 🎓 **B.Sc. in Data Science & AI (Online) — IIT Madras**  
